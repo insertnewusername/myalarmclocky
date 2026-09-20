@@ -8,6 +8,20 @@ So first off, after spending around 2 hours on onshape, I realised that the waka
 Also, for the arduino, despite instaling the plugin, js couldn't find the project at all. I'll try look into that issue.
 Uhh yeah that's about it. Hopefully I'll have more updates while building the clock!
 
+BOM:
+1x Seeed XIAO ESP32C3
+12x MX-Style Keyboard Switches
+12x White Blank DSA Keycaps
+12x Through-Hole 1N4148 Diodes
+1x 2.25in TFT Screen
+1x 3.3V Piezo Buzzer
+1x 2.54mm 8 Pin Male Header (For connecting your screen)
+8x 20cm Female-Female Jumper Wires (For connecting your screen off of the pcb)
+8x M3x5x4 Heatset Inserts
+4x M3x8mm Screws
+4x M3x16mm Screws
+
+
 Screenshots:
 <img width="1412" height="847" alt="Screenshot 2026-09-20 195337" src="https://github.com/user-attachments/assets/ea0364ab-6ed2-4644-82e9-7d5fbbf366d1" />
 <img width="565" height="492" alt="Screenshot 2026-09-20 195421" src="https://github.com/user-attachments/assets/a7e07a5c-562c-4196-be36-820a9cd63eea" />
