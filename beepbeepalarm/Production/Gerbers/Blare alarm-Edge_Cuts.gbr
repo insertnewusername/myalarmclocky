@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.4*%
+%TF.CreationDate,2026-09-20T19:44:29+10:00*%
+%TF.ProjectId,Blare alarm,426c6172-6520-4616-9c61-726d2e6b6963,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.4) date 2026-09-20 19:44:29*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X102000000Y-103000000D02*
+X191500000Y-103000000D01*
+X191500000Y-150500000D01*
+X102000000Y-150500000D01*
+X102000000Y-103000000D01*
+M02*
