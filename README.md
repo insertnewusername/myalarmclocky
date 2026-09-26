@@ -8,8 +8,9 @@ So first off, after spending around 2 hours on onshape, I realised that the waka
 Also, for the arduino, despite instaling the plugin, js couldn't find the project at all. I'll try look into that issue.
 Uhh yeah that's about it. Hopefully I'll have more updates while building the clock!
 
+Note to reviewer: If u see this I wanna ask if I can give the printing legion grant transfer directly to my friend's bank, and take photos of the case he will give me. As he has a 3d printer but says he's too busy to sign up for printing legion (I understand if that's not possible tho)
+
 BOM:
-Grant to give friend for around 80 gram filament (I'll transfer money to him but take photos of the 3d printed case)
 1x Seeed XIAO ESP32C3
 12x MX-Style Keyboard Switches
 12x White Blank DSA Keycaps
