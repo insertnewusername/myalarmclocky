@@ -1,6 +1,8 @@
 # Beep beep alarm
 
 This is a project I made for blare; an alarm clock. WOW!
+Beep beep alarm is an alarm clock designed to wake you up, It uses a seeed xiao esp32c3 as a microcontroler, with a tft screen
+
 
 Unforunately, I am quite new to hardware, and encountered quite a few issues along the way. Mainly with hackatime.
 
