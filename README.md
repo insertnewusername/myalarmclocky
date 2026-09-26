@@ -9,6 +9,7 @@ Also, for the arduino, despite instaling the plugin, js couldn't find the projec
 Uhh yeah that's about it. Hopefully I'll have more updates while building the clock!
 
 BOM:
+Grant to give friend for around 80 gram filament (I'll transfer money to him but take photos of the 3d printed case)
 1x Seeed XIAO ESP32C3
 12x MX-Style Keyboard Switches
 12x White Blank DSA Keycaps
